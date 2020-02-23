@@ -27,6 +27,8 @@ namespace MyMethods
         }
     }
 
+    //Nice 
+
     public class InputMethods
     {
         public static Vector3 GetMousePos(Camera camera)
